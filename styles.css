@@ -1,5 +1,7 @@
 .poston {
     background-color: black;
+    
+    margin-top: 250px;
 }
 
 
@@ -20,7 +22,8 @@
 .post{
     background-color:white;
     width:700px;
-  margin: auto;
+    margin: auto;
+    
   }
   .post img {
 	width: 700px;
